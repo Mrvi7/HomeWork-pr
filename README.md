@@ -1,9 +1,10 @@
-![foto resume](https://github.com/Mrvi7/HomeWork-pr/blob/main/img/IMG_3721.JPG)
-** Владимиров Илья Викторович ** 
+![foto resume](https://github.com/Mrvi7/HomeWork-pr/blob/main/img/IMG_3721.JPG)  
 
-* Возраст 33
-* Почта: munes007@yandex.ru
-* Телефон
+## Владимиров Илья Викторович
+
+- Возраст 33
+- Почта: munes007@yandex.ru
+- Телефон
 
 Опыт работы 14 лет
 
